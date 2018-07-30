@@ -61,12 +61,15 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\CorcraProps_Furniture_Lite\Scenes\Scripts\CameraOrbit.cs" />
     <Compile Include="Assets\EnviroSpawn_CS\EnviroSpawn_CS.cs" />
     <Compile Include="Assets\LevelDesignSet1_WoodenWalls\Scripts\WallSelector.cs" />
     <Compile Include="Assets\living birds\demo\livingBirdsDemoScript.cs" />
     <Compile Include="Assets\living birds\scripts\lb_Bird.cs" />
     <Compile Include="Assets\living birds\scripts\lb_BirdController.cs" />
     <Compile Include="Assets\living birds\scripts\lb_CrowProximity.cs" />
+    <Compile Include="Assets\SetRenderQueue.cs" />
+    <Compile Include="Assets\Underwater.cs" />
     <None Include="Assets\EnviroSpawn_CS\ReadMe.txt" />
     <None Include="Assets\EnviroSpawn_CS\Changelog.txt" />
     <None Include="Assets\Jiggly Bubble Free\readme_Jiggly_Bubble_Free.txt" />
@@ -74,6 +77,7 @@
     <None Include="Assets\LevelDesignSet1_WoodenWalls\ReadMe.txt" />
     <None Include="Assets\EnviroSpawn_CS\HOW TO USE!!!.txt" />
     <None Include="Assets\Jiggly Bubble Free\Shaders\Particle Alpha Blended Cubemap Skybox.shader" />
+    <None Include="Assets\DepthMask.shader" />
     <Reference Include="UnityEditor.StandardEvents">
       <HintPath>/Users/agustin/workspaces/myworkspace/Monte/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
     </Reference>
